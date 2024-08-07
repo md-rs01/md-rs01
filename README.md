@@ -9,5 +9,5 @@
 💞️ I’m eager to collaborate on AI projects, web development, and community-driven initiatives. Let’s create something amazing together!
 
 📫 How to reach me:
-- Telegram: t.me/heartcrafter
+- [Telegram]{t.me/heartcrafter}
 - Proton Mail: HeartCrafter@proton.com
