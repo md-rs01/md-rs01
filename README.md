@@ -10,4 +10,4 @@
 
 📫 How to reach me:
 - Telegram: [HeartCrafter](https://t.me/heartcrafter)
-- Proton-Main: [BoyFromBD](mail:HeartCrafter@proton.com)
+- Proton-Main: [BoyFromBD](mailto:HeartCrafter@proton.com)
